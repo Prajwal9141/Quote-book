@@ -1,3 +1,7 @@
 No pain, no gain
 
+<<<<<<< HEAD
+Live like a villain
+=======
 Live like a hero
+>>>>>>> master
